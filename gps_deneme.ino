@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-// tx 10, rx 11
+// plug tx pin 10, rx pin 11
 SoftwareSerial gps(10, 11);
 
 char c;
